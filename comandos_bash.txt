@@ -1,0 +1,3 @@
+pwd - Me informa o diretório que me encontro
+ls -  me informa todos arquivos e pastas da pasta que estou
+cd "nome_pasta" - me movimento no diretório
