@@ -2,3 +2,4 @@ git init . -> Cria uma repo git na pasta atual
 git status -> Mostra o status do trabalho (de cada arquivo)
 git add -> Prepara o arquivo para ser comitado.
 git commit -m -> Faz o commit do arquivo que está pronta para ser commitado
+git reset -> Tem o poder de retirar um arquivo que esteja no stage para commitar
